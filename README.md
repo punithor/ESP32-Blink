@@ -120,3 +120,13 @@ GitHub: https://github.com/punithor
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+
+---
+
+## 📸 Project Screenshots
+
+### 1. ESP32 Circuit Diagram
+![Circuit Diagram](Circuit%20Diagram%20(2).png)
+
+### 2. ThingsBoard Dashboard
+![ThingsBoard Dashboard](Thingsboard%20cloud.png)
